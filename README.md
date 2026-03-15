@@ -95,7 +95,7 @@ This section focuses specifically on employee turnover.
 
 Key insights include:
 
-* Departments with the highest attrition
+* Departments with thDepartment-levelion
 * Job roles most affected by attrition
 * Travel frequency vs attrition patterns
 * Attrition trends over time
@@ -106,8 +106,8 @@ These insights help identify potential retention issues and workforce risks.
 
 ## Key Insights
 
-Through this analysis I discovered several important patterns:
-
+Through this analysis, I discovered several important patterns:
+,
 * Certain departments and job roles experience significantly higher attrition rates.
 * Satisfaction metrics appear to correlate with employee turnover.
 * Workforce demographics reveal imbalances in some categories.
