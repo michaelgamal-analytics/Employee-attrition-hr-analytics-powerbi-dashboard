@@ -16,6 +16,8 @@ In this project I focused on answering several important HR questions:
 * How do satisfaction metrics relate to employee turnover?
 * What demographic patterns exist across the workforce?
 ![power bi file ](<HR STUDY.pbix>)
+
+[![Watch the Dashboard Demo](<Screenshot 2026-03-14 002351.png>)](https://www.linkedin.com/posts/michaelgamalyass_powerbi-dataanalytics-hranalytics-activity-7438684573074595840-NUXO)
 ---
 
 ## Data Modeling
