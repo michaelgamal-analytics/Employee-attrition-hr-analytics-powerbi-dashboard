@@ -27,7 +27,7 @@ Key steps included:
 * Building relationships between tables
 * Structuring the data to support time-based analysis
 * Creating a clean model for reporting and insights
-![Relationships](<Relationships>)
+![Relationships](<Relationships.png>)
 ---
 
 ## DAX Calculations
